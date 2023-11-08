@@ -2,7 +2,6 @@ import requests
 import time
 from customtkinter import *
 from PIL import Image
-from configparser import ConfigParser
 
 
 # define and grid a CTkLabel
