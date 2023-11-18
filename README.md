@@ -20,7 +20,7 @@ This is a Python desktop application that provides users with the ability to sea
 
 ## API Key
 
-To use the OpenWeatherMap API, you'll need to obtain an API key. Follow the instructions [here](https://openweathermap.org/appid) to get your API key. Once obtained, add it to line 50 the `main.py` file.
+To use the OpenWeatherMap API, you'll need to obtain an API key. Follow the instructions [here](https://openweathermap.org/appid) to get your API key. Once obtained, add it to line 50 of the `main.py` file.
 
 ```python
   # API KEY
@@ -31,9 +31,9 @@ To use the OpenWeatherMap API, you'll need to obtain an API key. Follow the inst
 
 To run the Weather Desktop App, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone this repository: `git clone https://github.com/joewil08/WeatherApp.git`
 2. Obtain and paste your API key using the above instructions
-3. Navigate to the project directory: `cd your-repo`
+3. Navigate to the project directory: `cd WeatherApp`
 4. Install dependencies: `pip install -r requirements.txt`
 5. Run the app: `python main.py`
 
