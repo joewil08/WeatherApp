@@ -29,7 +29,7 @@ To use the OpenWeatherMap API, you'll need to obtain an API key. Follow the inst
 
 ## Installation
 
-To run the Weather Desktop App, follow these steps:
+To run the application, follow these steps:
 
 1. Clone this repository: `git clone https://github.com/joewil08/WeatherApp.git`
 2. Obtain and paste your API key using the above instructions
